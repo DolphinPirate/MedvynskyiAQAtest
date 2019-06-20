@@ -4,7 +4,7 @@ public class Name {
 
     String name = "Вячеслав";
 
-    void result() {
+    void resultEnterName() {
         String n;
         do {
             System.out.println("Введите имя: ");
