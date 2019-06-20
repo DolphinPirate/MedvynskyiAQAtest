@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class MyArray {
 
-    void resultMod3() {
+    void resultArrayMod3() {
         System.out.println("Ведите длину массива: ");
         Scanner arr = new Scanner(System.in);
         int n = arr.nextInt();

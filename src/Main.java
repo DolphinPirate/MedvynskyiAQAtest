@@ -13,7 +13,7 @@ public class Main {
         TaskTwo.resultEnterName();
 
         System.out.println("\nTask 3:   на входе есть числовой массив, необходимо вывести элементы массива кратные 3");
-        TaskThree.resultMod3();
+        TaskThree.resultArrayMod3();
 
         System.out.println("\n\nTask 4.\tДана скобочная последовательность: [((())()(())]]\n" +
                 "- Можно ли считать эту последовательность правильной?\n" +
